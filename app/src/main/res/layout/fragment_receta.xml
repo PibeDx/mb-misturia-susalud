@@ -1,0 +1,51 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:padding="@dimen/activity_horizontal_margin">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="369dp"
+                android:scaleType="center"
+                android:src="@drawable/ingrdientes"/>
+
+            <TextView
+                android:id="@+id/lbl_ing"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="INGREDIENTES"
+                android:textSize="@dimen/text_size_subtitle_ingredientes"
+                android:textStyle="bold"
+                android:typeface="sans"/>
+
+            <TextView
+                android:id="@+id/lbl_ingE"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginTop="20dp"
+                android:padding="15dp"
+
+                android:text="@string/text_desc_ingredientes"
+                android:textSize="@dimen/text_size_info_ingredientes"
+                android:textStyle="bold"
+                android:typeface="sans"
+                />
+            <!--android:textColor="#3F48CC"-->
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

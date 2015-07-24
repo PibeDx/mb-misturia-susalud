@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Misturita</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">Misturita SUSALUD</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_title_info">Causa de Langostino</string>
+    <string name="text_desc_info">La causa es un plato exquisito que nace del refinamiento de un rokro, Es suave y delicada y está hecha de papas amarillas y ají. Es “la crema y nata” de los mejores potajes peruanos cuya innata sencillez proviene de la genial pincelada del arte que caracterizó a los antiguos peruanos. Además, su origen mítico la relaciona con los dioses que la protegen, porque la papa o kausac (lo que da vida), proviene de la uku -pacha o tierra de abajo y está protegida por la diosa Oxomama, por los apus y por los auquillos que aseguran su existencia; así como por los ucu pacha runa chacuna o duendes que la cuidan.</string>
+    <string name="text_titleP_info">Misturita SUSALUD</string>
+    <string name="title_intro">Misturita SUSALUD</string>
+    <string name="text_desc_preparacion">Para empezar a preparar este riquísimo plato de causa rellena de langostinos prensa la papa. Luego, añade el aceite, el ají, la sal, la pimienta y el jugo de lima. Luego, con la ayuda de tus manos amasa hasta obtener una masa homogénea.  Cuando hayas acabado de hacer esto, resérvalo.  Ahora mezcla el atún junto con la cebolla en láminas y la mayonesa. Ahora pon una capa de papa y la segunda capa que sea la mezcla de atún, cebolla y mayonesa. La tercera capa será de palta cortada en tiritas, luego una capa de langostinos y finalmente una capa de papa.  Decora con unas láminas de palta y aceituna negras. Echa un poco de mayonesa y sírvete según tu gusto.</string>
+    <string name="text_title_preparacion">Preparacion</string>
+    <string name="text_desc_ingredientes">- 5 papas amarillas prensadas\n- 1/2 taza de ají amarillo licuado.\n- Jugo de una lima.\n- 2 cucharadas de aceite de oliva.\n- Sal y pimienta blanca.\n- 10 langostinos.\n- 1 lata de atún en aceite de oliva.\n- Cebolla (preferentemente morada).\n- Palta\n- Tomate en rodajas.\n- Mayonesa al gusto</string>
+</resources>
